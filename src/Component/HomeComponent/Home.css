@@ -1,0 +1,26 @@
+.home-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.home-title {
+  text-align: center;
+  font-size: 2rem;
+  color: #222;
+  margin-bottom: 30px;
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.loading,
+.no-stories {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #666;
+}
