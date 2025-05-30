@@ -100,7 +100,10 @@ function StoryDetail() {
       <p className="text-sm text-gray-700">
         <strong className="text-gray-800">Noun:</strong> {word.Noun}
       </p>
-    </div>git branch -M main
+    </div>
+    
+  ))}
+</div>
 
       ) : (
         <p className="no-data">No Word Explore content.</p>
